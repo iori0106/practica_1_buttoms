@@ -1,0 +1,73 @@
+body {
+    background-color: bisque;
+    color: darkcyan;
+}
+.btn {
+    background-color: transparent;
+    padding: 15px 20px;
+    border: 2px solid rgb(6, 96, 101);
+    border-radius: 15px;
+    cursor: pointer;
+}
+.bg-primary {
+    background-color: darkblue;
+    color: whitesmoke;
+}
+.bg-secondary {
+    background-color: dimgrey;
+    color: black;
+}
+.bg-Success {
+    background-color: chocolate;
+    color: black;
+}
+.bg-Danger {
+    background-color: rgb(213, 213, 53);
+    color: rgb(107, 130, 52);
+}
+.btn-big {
+    font-size: 32px;
+    background-color: crimson;
+    color: coral;
+}
+.btn-large {
+    font-size: 26px;
+    background-color: rgb(128, 202, 55);
+}
+.btn-small {
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+}
+.btn-md {
+    font-size: medium;
+    background-color: black;
+    color: white;
+}
+.bg-link {
+    font-size: 18px;
+    color: rgb(25, 25, 181);
+    border: none;
+}
+
+
+/*---------------------------------------------------------------*/
+.btn-transparent {
+    background-color: transparent;
+    padding: 20px 25px;
+    border: 3px solid rgb(3, 82, 82);
+    border-radius: 20px;
+    cursor: pointer;
+} 
+.btn-outline {
+    font-size: medium;
+    color: rgb(212, 131, 8);
+}
+.btn-1-outline {
+    font-size: xx-large;
+    color: darkmagenta;
+}
+.btn-block {
+    font-size: larger;
+    color: rgba(196, 170, 19, 0.851);
+}
